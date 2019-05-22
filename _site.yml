@@ -1,0 +1,7 @@
+name: "my-website"
+navbar:
+  title: "BETTER TRAVEL EVENTS"
+  left:
+    - text: "Quotation"
+      href: index.html
+
